@@ -1,0 +1,23 @@
+{
+  "name": "class2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niharpatil/class2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niharpatil/class2/issues"
+  },
+  "homepage": "https://github.com/niharpatil/class2#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
